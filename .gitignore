@@ -36,3 +36,6 @@ local.properties
 # Composer
 vendor/*
 composer.lock
+
+#tmp files
+*~
